@@ -1,7 +1,7 @@
 # Frontend Mentor Challenge
 ## Huddle Landing Page
 
-![Desktop design preview](https://github.com/f-elix/huddle-landing-page/blob/master/huddle-landing-page-945317-master/design/desktop-preview.jpg)
+![Desktop design preview](https://github.com/f-elix/Huddle-Landing-Page/blob/master/design/desktop-preview.jpg?raw=true)
 
 
 ## What is it?
